@@ -1,0 +1,17 @@
+#/bin/bash
+
+archs=( amd64 hppa i386 ia64 lpia powerpc )
+
+for arch in ${archs[@]}
+do
+	cat $1.add | while read LINE ; do
+		echo "$LINE" >> ../$1-$arch
+	done
+
+    cat $1.remove | while read LINE ; do
+        command="s/^$LINE$//"
+	sed -i $command ../$1-$arch
+    done
+
+	cat ../$1-$arch | grep -v "^\s*$" | sort | uniq > ../$1-$arch
+done

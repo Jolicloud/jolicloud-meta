@@ -1,0 +1,21 @@
+Package: jolicloud-minimal
+Source: jolicloud-meta
+Version: 0.1
+Architecture: i386
+Maintainer: Jolicloud developers <developers@jolicloud.org>
+Installed-Size: 32
+Depends: adduser, apt, apt-utils, bzip2, console-setup, debconf, dhcp3-client, eject, gnupg, ifupdown, initramfs-tools, iproute, iputils-ping, kbd, less, libc6-i686, locales, lsb-release, makedev, mawk, module-init-tools, net-tools, netbase, netcat, ntpdate, passwd, procps, python, startup-tasks, sudo, sysklogd, system-services, tasksel, tzdata, ubuntu-keyring, udev, upstart, upstart-compat-sysv, upstart-logd, vim-tiny, whiptail
+Section: metapackages
+Priority: optional
+Description: Minimal core of Jolicloud
+ This package depends on all of the packages in the Jolicloud minimal system,
+ that is a functional command-line system with the following capabilities:
+ .
+  - Boot
+  - Detect hardware
+  - Connect to a network
+  - Install packages
+  - Perform basic diagnostics
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
