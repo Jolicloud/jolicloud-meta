@@ -32,10 +32,10 @@ jockey-gtk
 laptop-detect
 libgl1-mesa-dri
 libpam-gnome-keyring
+lock-keys-applet
 min12xxw
 miro
 mousetweaks
-mozilla-plugin-vlc
 nautilus-share
 network-manager-gnome
 onboard
@@ -67,6 +67,8 @@ skype
 splix
 thunderbird
 thunderbird-gnome-support
+totem
+totem-mozilla
 transmission-gtk
 ttf-arabeyes
 ttf-arphic-uming
@@ -79,7 +81,6 @@ ttf-unfonts-core
 ubufox
 ubuntu-docs
 vino
-vlc
 wodim
 wvdial
 xcursor-themes

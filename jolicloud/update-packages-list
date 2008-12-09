@@ -13,6 +13,6 @@ do
 	sed -i $command ../$1-$arch
     done
 
-	newFile=`cat ../$1-$arch | grep "[^\s]" | sort | uniq`
+	newFile=`cat ../$1-$arch | grep -v "^$" | sort | uniq`
 	echo "$newFile" > ../$1-$arch
 done

@@ -1,3 +1,9 @@
+jolicloud-meta (0.1.1) intrepid; urgency=low
+
+  * Added recommended lock-keys-applet
+
+ -- Jolicloud developers <developers@jolicloud.org>  Tue, 09 Dec 2008 18:21:56 +0100
+
 jolicloud-meta (0.1) intrepid; urgency=low
 
   * Initial release

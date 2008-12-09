@@ -1,6 +1,6 @@
 cheese
+lock-keys-applet
 miro
-mozilla-plugin-vlc
 skype
 prism-facebook
 prism-google-calendar
@@ -17,4 +17,5 @@ prism-twitter
 prism-youtube
 thunderbird
 thunderbird-gnome-support
-vlc
+totem
+totem-mozilla

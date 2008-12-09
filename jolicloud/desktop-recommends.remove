@@ -15,12 +15,12 @@ libdeskbar-tracker
 libnss-mdns
 linux-headers.*
 make
+mozilla-plugin-vlc
 rhythmbox
-totem
-totem-mozilla
 tracker
 tracker-search-tool
 tsclient
 usb-creator
 vinagre
+vlc
 xsane
