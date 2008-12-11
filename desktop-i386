@@ -86,6 +86,7 @@ notification-daemon
 openprinting-ppds
 pnm2ppa
 powermanagement-interface
+prism-google-gears
 prism-jolicloud
 pulseaudio
 pulseaudio-esound-compat
