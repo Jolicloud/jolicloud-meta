@@ -1,3 +1,9 @@
+jolicloud-meta (0.1.2) intrepid; urgency=low
+
+  * Added prism-google-gears for Gears extension for prism
+
+ -- Jolicloud developers <developers@jolicloud.org>  Thu, 11 Dec 2008 18:27:51 +0100
+
 jolicloud-meta (0.1.1) intrepid; urgency=low
 
   * Added recommended lock-keys-applet
