@@ -40,11 +40,6 @@ mousetweaks
 nautilus-share
 network-manager-gnome
 onboard
-openoffice.org-calc
-openoffice.org-gnome
-openoffice.org-impress
-openoffice.org-math
-openoffice.org-writer
 pidgin
 pidgin-otr
 powernowd
@@ -71,8 +66,6 @@ scim-bridge-client-gtk
 scim-gtk2-immodule
 skype
 splix
-thunderbird
-thunderbird-gnome-support
 tomboy
 totem
 totem-mozilla

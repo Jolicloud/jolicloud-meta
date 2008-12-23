@@ -56,6 +56,7 @@ hal
 hwtest-gtk
 inputattach
 jolicloud-gdm-theme
+jolicloud-notifier
 jolicloud-theme
 jolicloud-tweaks
 language-selector
