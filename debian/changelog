@@ -1,4 +1,4 @@
-jolicloud-meta (0.1.4) jaunty; urgency=low
+jolicloud-meta (0.1.4) intrepid; urgency=low
 
   * Removed most recommended packages to let the user optionally install them
 
