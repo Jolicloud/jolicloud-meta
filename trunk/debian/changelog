@@ -1,0 +1,30 @@
+jolicloud-meta (0.1.4) jaunty; urgency=low
+
+  * Removed most recommended packages to let the user optionally install them
+
+ -- Jolicloud developers <developers@jolicloud.org>  Mon, 05 Jan 2009 16:33:29 +0100
+
+jolicloud-meta (0.1.3) intrepid; urgency=low
+
+  * Removed thunderbird and open office
+  * Added jolicloud-notifier
+
+ -- Jolicloud developers <developers@jolicloud.org>  Tue, 23 Dec 2008 17:47:17 +0100
+
+jolicloud-meta (0.1.2) intrepid; urgency=low
+
+  * Added prism-google-gears for Gears extension for prism
+
+ -- Jolicloud developers <developers@jolicloud.org>  Thu, 11 Dec 2008 18:27:51 +0100
+
+jolicloud-meta (0.1.1) intrepid; urgency=low
+
+  * Added recommended lock-keys-applet
+
+ -- Jolicloud developers <developers@jolicloud.org>  Tue, 09 Dec 2008 18:21:56 +0100
+
+jolicloud-meta (0.1) intrepid; urgency=low
+
+  * Initial release
+
+ -- Jolicloud developers <developers@jolicloud.org>  Fri,  28 Nov 2008 12:13:43 +0100

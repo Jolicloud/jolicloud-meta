@@ -1,0 +1,3 @@
+#/bin/sh
+./update-packages-list desktop
+./update-packages-list desktop-recommends
