@@ -1,3 +1,9 @@
+jolicloud-meta (0.1.5) intrepid; urgency=low
+
+  * Replaced prism-jolicloud by prism-webapp-jolicloud
+
+ -- Jolicloud developers <developers@jolicloud.org>  Tue, 06 Jan 2009 18:51:16 +0100
+
 jolicloud-meta (0.1.4) intrepid; urgency=low
 
   * Removed most recommended packages to let the user optionally install them

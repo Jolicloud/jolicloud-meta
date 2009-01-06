@@ -88,7 +88,7 @@ openprinting-ppds
 pnm2ppa
 powermanagement-interface
 prism-google-gears
-prism-jolicloud
+prism-webapp-jolicloud
 pulseaudio
 pulseaudio-esound-compat
 rarian-compat
