@@ -58,7 +58,6 @@ hal
 hwtest-gtk
 inputattach
 jolicloud-bridge
-jolicloud-daemon
 jolicloud-gdm-theme
 jolicloud-notifier
 jolicloud-theme
@@ -108,7 +107,6 @@ ubuntu-artwork
 ubuntu-sounds
 unzip
 update-manager
-update-notifier
 usplash
 usplash-theme-jolicloud
 window-picker-applet

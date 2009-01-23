@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.8) jaunty; urgency=low
+
+  * Removed update-notifier dependency
+  * Removed useless jolicloud-daemon dependency
+
+ -- Tristan Groléat <tristan@jolicloud.org>  Fri, 23 Jan 2009 19:36:55 +0100
+
 jolicloud-meta (0.1.7) intrepid; urgency=low
 
   * Added Jolicloud daemon and bridge dependencies to desktop
