@@ -5,34 +5,34 @@ Maintainer: Jolicloud developers <developers@jolicloud.org>
 Standards-Version: 3.8.0
 Build-Depends: debhelper (>= 4)
 
-#Package: jolicloud-minimal
-#Architecture: any
-#Depends: ${jolicloud-minimal:Depends}
-#Recommends: ${jolicloud-minimal:Recommends}
-#Description: Minimal core of Jolicloud
-# This package depends on all of the packages in the Jolicloud minimal system,
-# that is a functional command-line system with the following capabilities:
-# .
-#  - Boot
-#  - Detect hardware
-#  - Connect to a network
-#  - Install packages
-#  - Perform basic diagnostics
-# .
-# It is also used to help ensure proper upgrades, so it is recommended that
-# it not be removed.
-#
-#Package: jolicloud-standard
-#Architecture: any
-#Depends: ${jolicloud-standard:Depends}
-#Recommends: ${jolicloud-standard:Recommends}
-#Description: The Jolicloud standard system
-# This package depends on all of the packages in the Jolicloud standard system.
-# This set of packages provides a comfortable command-line Unix-like
-# environment.
-# .
-# It is also used to help ensure proper upgrades, so it is recommended that
-# it not be removed.
+Package: jolicloud-minimal
+Architecture: any
+Depends: ${jolicloud-minimal:Depends}
+Recommends: ${jolicloud-minimal:Recommends}
+Description: Minimal core of Jolicloud
+ This package depends on all of the packages in the Jolicloud minimal system,
+ that is a functional command-line system with the following capabilities:
+ .
+  - Boot
+  - Detect hardware
+  - Connect to a network
+  - Install packages
+  - Perform basic diagnostics
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: jolicloud-standard
+Architecture: any
+Depends: ${jolicloud-standard:Depends}
+Recommends: ${jolicloud-standard:Recommends}
+Description: The Jolicloud standard system
+ This package depends on all of the packages in the Jolicloud standard system.
+ This set of packages provides a comfortable command-line Unix-like
+ environment.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
 
 Package: jolicloud-desktop
 Architecture: any

@@ -1,4 +1,4 @@
-jolicloud-meta (0.1.8) jaunty; urgency=low
+jolicloud-meta (0.1.8) intrepid; urgency=low
 
   * Removed update-notifier dependency
   * Removed useless jolicloud-daemon dependency
