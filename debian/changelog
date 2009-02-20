@@ -1,3 +1,9 @@
+jolicloud-meta (0.1.9) intrepid; urgency=low
+
+  * Removed gnome-orca recommands
+
+ -- Tristan Groléat <tristan@jolicloud.org>  Fri, 20 Feb 2009 14:13:19 +0100
+
 jolicloud-meta (0.1.8) intrepid; urgency=low
 
   * Removed update-notifier dependency
