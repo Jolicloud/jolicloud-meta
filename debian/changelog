@@ -7,7 +7,7 @@ jolicloud-meta (0.1.9) intrepid; urgency=low
   * Added prism-webapp-facebook and skype as recommended packages.
   * Removed example-content and synaptic.
 
- -- Romain Huet <romain@aspire-one>  Mon, 23 Feb 2009 21:13:56 +0100
+ -- Romain Huet <romain@jolicloud.org>  Mon, 23 Feb 2009 21:15:42 +0100
 
 jolicloud-meta (0.1.8) intrepid; urgency=low
 
