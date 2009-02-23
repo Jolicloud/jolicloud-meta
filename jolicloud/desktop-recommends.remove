@@ -10,6 +10,7 @@ evolution
 evolution-exchange
 evolution-plugins
 evolution-webcal
+example-content
 gimp
 gnome-games
 gnome-orca
@@ -38,7 +39,6 @@ prism-netvibes
 prism-twitter
 prism-youtube
 rhythmbox
-skype
 thunderbird
 thunderbird-gnome-support
 tracker

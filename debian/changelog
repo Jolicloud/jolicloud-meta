@@ -1,8 +1,13 @@
 jolicloud-meta (0.1.9) intrepid; urgency=low
 
+  [ Tristan Groléat ]
   * Removed gnome-orca recommands
 
- -- Tristan Groléat <tristan@jolicloud.org>  Fri, 20 Feb 2009 14:13:19 +0100
+  [ Romain Huet ]
+  * Added prism-webapp-facebook and skype as recommended packages.
+  * Removed example-content and synaptic.
+
+ -- Romain Huet <romain@aspire-one>  Mon, 23 Feb 2009 21:13:56 +0100
 
 jolicloud-meta (0.1.8) intrepid; urgency=low
 

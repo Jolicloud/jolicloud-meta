@@ -9,7 +9,6 @@ brltty
 brltty-x11
 contact-lookup-applet
 espeak
-example-content
 firefox
 firefox-gnome-support
 foo2zjs
@@ -40,6 +39,7 @@ onboard
 pidgin
 pidgin-otr
 powernowd
+prism-webapp-facebook
 pulseaudio-module-gconf
 pulseaudio-module-hal
 pulseaudio-module-x11
@@ -48,6 +48,7 @@ scim
 scim-bridge-agent
 scim-bridge-client-gtk
 scim-gtk2-immodule
+skype
 splix
 tomboy
 totem
