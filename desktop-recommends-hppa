@@ -16,7 +16,6 @@ foomatic-db-hpijs
 fortune-mod
 gcc
 gdm-guest-session
-gnome-accessibility-themes
 gnome-mag
 gnome-pilot-conduits
 gnome-screensaver
@@ -43,10 +42,6 @@ pulseaudio-module-gconf
 pulseaudio-module-hal
 pulseaudio-module-x11
 pxljr
-scim
-scim-bridge-agent
-scim-bridge-client-gtk
-scim-gtk2-immodule
 skype
 splix
 totem

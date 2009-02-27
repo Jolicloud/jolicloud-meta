@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.10) intrepid; urgency=low
+
+  * Replaced all theme dependencies by jolicloud-artwork
+  * Removed useless packages
+
+ -- Tristan Groléat <tristan@jolicloud.org>  Thu, 26 Feb 2009 15:48:12 +0100
+
 jolicloud-meta (0.1.9) intrepid; urgency=low
 
   [ Tristan Groléat ]

@@ -45,7 +45,6 @@ gnome-session
 gnome-system-monitor
 gnome-system-tools
 gnome-terminal
-gnome-themes
 gnome-utils
 go-home-applet
 gstreamer0.10-alsa
@@ -54,15 +53,13 @@ gstreamer0.10-pulseaudio
 gstreamer0.10-schroedinger
 gtk2-engines
 gtk2-engines-pixbuf
-gucharmap
 hal
 hotkey-setup
 hwtest-gtk
 inputattach
+jolicloud-artwork
 jolicloud-bridge
-jolicloud-gdm-theme
 jolicloud-notifier
-jolicloud-theme
 jolicloud-tweaks
 language-selector
 launchpad-integration
@@ -105,12 +102,10 @@ tangerine-icon-theme
 ttf-bitstream-vera
 ttf-dejavu-core
 ttf-freefont
-ubuntu-artwork
 ubuntu-sounds
 unzip
 update-manager
 usplash
-usplash-theme-jolicloud
 window-picker-applet
 wireless-tools
 wpasupplicant
