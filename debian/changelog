@@ -1,4 +1,4 @@
-jolicloud-meta (0.1.12) jaunty; urgency=low
+jolicloud-meta (0.1.12) robby; urgency=low
 
   * Now provides ubuntu-meta packages
   * Included ubuntu jaunty sources of the packages
