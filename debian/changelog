@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.12) jaunty; urgency=low
+
+  * Now provides ubuntu-meta packages
+  * Included ubuntu jaunty sources of the packages
+
+ -- Tristan Groléat <tristan@jolicloud.org>  Wed, 22 Apr 2009 15:46:35 +0200
+
 jolicloud-meta (0.1.11) intrepid; urgency=low
 
   * Removed skype dependency
