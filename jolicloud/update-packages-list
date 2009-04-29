@@ -1,6 +1,6 @@
 #/bin/bash
 
-archs=( amd64 armel hppa i386 ia64 lpia powerpc sparc )
+archs=( i386 )
 
 for arch in ${archs[@]}
 do
