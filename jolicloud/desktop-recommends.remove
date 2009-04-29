@@ -11,6 +11,7 @@ evolution
 evolution-exchange
 evolution-plugins
 evolution-webcal
+evolution-indicator
 example-content
 gimp
 gnome-accessibility-themes
