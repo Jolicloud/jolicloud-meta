@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.14) robby; urgency=low
+
+  * Removed all legacy non-i386 desktop, minimal, standard definitions
+  * Adjusted jolicloud-specific packages to be "added", not "removed"
+
+ -- Adam McDaniel <adam@jolicloud.org>  Wed, 29 Apr 2009 12:01:23 -0600
+
 jolicloud-meta (0.1.13) robby; urgency=low
 
   * Adapted the armel architecture
