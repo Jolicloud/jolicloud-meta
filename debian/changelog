@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.15) robby; urgency=low
+
+  * Removed "prism-jolicloud" from jolicloud-desktop as this package is
+    depricated
+
+ -- Adam McDaniel <adam@jolicloud.org>  Wed, 29 Apr 2009 12:07:07 -0600
+
 jolicloud-meta (0.1.14) robby; urgency=low
 
   * Removed all legacy non-i386 desktop, minimal, standard definitions
