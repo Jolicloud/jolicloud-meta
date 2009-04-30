@@ -1,18 +1,23 @@
 #/bin/bash
 
+SCRIPT_DIR="`dirname $0`"
+TARGET_DIR="$1"
+DIFF_FILES_PREFIX="$SCRIPT_DIR/$2"
+TARGET_FILES_PREFIX="$TARGET_DIR/$2"
+
 archs=( i386 )
 
 for arch in ${archs[@]}
 do
-	cat $1.add | while read LINE ; do
-		echo "$LINE" >> ../$1-$arch
+	cat $DIFF_FILES_PREFIX.add | while read LINE ; do
+		echo "$LINE" >> $TARGET_FILES_PREFIX-$arch
 	done
 
-    cat $1.remove | while read LINE ; do
+    cat $DIFF_FILES_PREFIX.remove | while read LINE ; do
         command="s/^$LINE$//"
-	sed -i $command ../$1-$arch
+	sed -i $command $TARGET_FILES_PREFIX-$arch
     done
 
-	newFile=`cat ../$1-$arch | grep -v "^$" | sort | uniq`
-	echo "$newFile" > ../$1-$arch
+	newFile=`cat $TARGET_FILES_PREFIX-$arch | grep -v "^$" | sort | uniq`
+	echo "$newFile" > $TARGET_FILES_PREFIX-$arch
 done

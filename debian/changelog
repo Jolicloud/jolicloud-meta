@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.16) robby; urgency=low
+
+  * Changed the way to build the package
+  * Removed redundant dependencies
+
+ -- Tristan Groléat <tristan@jolicloud.org>  Thu, 30 Apr 2009 13:16:14 +0200
+
 jolicloud-meta (0.1.15) robby; urgency=low
 
   * Removed "prism-jolicloud" from jolicloud-desktop as this package is
