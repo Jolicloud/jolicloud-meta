@@ -1,3 +1,9 @@
+jolicloud-meta (0.1.18) robby; urgency=low
+
+  * Removed some useless theme packages
+
+ -- Tristan Groléat <tristan@jolicloud.org>  Thu, 04 Jun 2009 13:11:54 +0200
+
 jolicloud-meta (0.1.17) robby; urgency=low
 
   * Removed gnome-app-install from desktop dependencies

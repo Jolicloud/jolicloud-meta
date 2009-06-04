@@ -1,11 +1,13 @@
 genisoimage
 gnome-app-install
 gnome-spell
-gnome-themes
+gnome-themes-ubuntu
+gnome-themes-selected
 gucharmap
 nautilus-cd-burner
 pcmciautils
 readahead
+tangerine-icon-theme
 ubuntu-artwork
 update-notifier
 usplash-theme-ubuntu
