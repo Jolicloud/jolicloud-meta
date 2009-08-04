@@ -1,3 +1,9 @@
+jolicloud-meta (0.1.19) robby; urgency=low
+
+  * Added jolicloud-netbook-config to the desktop dependencies
+
+ -- Romain Huet <romain@jolicloud.org>  Tue, 04 Aug 2009 11:56:39 +0200
+
 jolicloud-meta (0.1.18) robby; urgency=low
 
   * Removed some useless theme packages
