@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.20) robby; urgency=low
+
+  * Removed prism-webapp-gmail, prism-webapp-twitter and skype from the
+    desktop recommended dependencies (My Jolicloud doesn't support this yet)
+
+ -- Romain Huet <romain@jolicloud.org>  Thu, 06 Aug 2009 12:44:24 +0200
+
 jolicloud-meta (0.1.19) robby; urgency=low
 
   * Added jolicloud-netbook-config to the desktop dependencies
