@@ -4,6 +4,7 @@ clean:
 	dh_testdir
 	dh_clean
 	rm -rf build-stamp *.old debootstrap-dir
+	rm *-$(DEB_BUILD_ARCH)
 
 DEB_BUILD_ARCH:=$(shell dpkg-architecture -qDEB_BUILD_ARCH)
 
@@ -49,6 +50,6 @@ binary-indep:
 	dh_md5sums -i
 	dh_builddeb -i
 
-binary: binary-indep binary-arch
+binary: build binary-indep binary-arch
 
 .PHONY: binary binary-arch binary-indep clean checkroot build
