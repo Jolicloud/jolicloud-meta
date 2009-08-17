@@ -1,3 +1,9 @@
+jolicloud-meta (0.1.24) robby; urgency=low
+
+  * Temporarily removed jolicloud-sounds from desktop dependencies
+
+ -- Romain Huet <romain@jolicloud.org>  Mon, 17 Aug 2009 22:13:30 +0200
+
 jolicloud-meta (0.1.23) robby; urgency=low
 
   * Fixed debian/rules so standalone binary target builds work
