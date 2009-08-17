@@ -1,3 +1,11 @@
+jolicloud-meta (0.1.23) robby; urgency=low
+
+  * Fixed debian/rules so standalone binary target builds work
+  * Removed ubuntu-sounds from desktop dependencies
+  * Added jolicloud-sounds into desktop dependencies
+
+ -- Adam McDaniel <adam@jolicloud.org>  Mon, 17 Aug 2009 11:58:25 -0600
+
 jolicloud-meta (0.1.22) robby; urgency=low
 
   * Added jolicloud-usb-creator to the desktop dependencies
