@@ -4,7 +4,7 @@ clean:
 	dh_testdir
 	dh_clean
 	rm -rf build-stamp *.old debootstrap-dir
-	rm *-$(DEB_BUILD_ARCH)
+	rm -f *-$(DEB_BUILD_ARCH)
 
 DEB_BUILD_ARCH:=$(shell dpkg-architecture -qDEB_BUILD_ARCH)
 
