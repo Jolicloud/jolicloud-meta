@@ -19,12 +19,6 @@ jolicloud-meta (0.1.23) robby; urgency=low
 
  -- Adam McDaniel <adam@jolicloud.org>  Mon, 17 Aug 2009 11:58:25 -0600
 
-jolicloud-meta (0.1.22) robby; urgency=low
-
-  * Added jolicloud-usb-creator to the desktop dependencies
-
- -- Romain Huet <romain@jolicloud.org>  Fri, 14 Aug 2009 14:43:17 +0200
-
 jolicloud-meta (0.1.21) robby; urgency=low
 
   * Added firefox-meerkat to the desktop recommended dependencies
