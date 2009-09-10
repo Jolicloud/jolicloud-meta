@@ -1,5 +1,5 @@
 Source: jolicloud-meta
-Section: metapackages
+Section: jolicloud/metapackages
 Priority: optional
 Maintainer: Jolicloud developers <developers@jolicloud.org>
 Standards-Version: 3.8.0
