@@ -1,3 +1,21 @@
+jolicloud-meta (0.1.26) robby; urgency=low
+
+  [ Adam McDaniel ]
+  * Set package section to "jolicloud/metapackages"
+
+  [ Tristan Groléat ]
+  * Removed useless dependency to gnome-icon-theme
+  * Added a dependency to jolicloud-cleaner
+  * Revert "Revert "Restored jolicloud-sounds into desktop dependencies,
+    now that the package""
+  * Revert "Revert "Temporarily removed jolicloud-sounds from desktop
+    dependencies""
+  * Revert "Revert "Added jolicloud-sounds into desktop dependencies""
+  * Revert "Revert "Added jolicloud-usb-creator to the desktop
+    dependencies""
+
+ -- Tristan Groléat <tristan@jolicloud.org>  Wed, 16 Sep 2009 19:56:09 +0200
+
 jolicloud-meta (0.1.25) robby; urgency=low
 
   * Reverted jolicloud-meta back to 0.1.21. This removes the changes to the
