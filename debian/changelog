@@ -12,6 +12,14 @@ jolicloud-meta (0.1.24.1) robby; urgency=low
   * Restored jolicloud-sounds into desktop dependencies, now that the
     package has correct control file to replace ubuntu-sounds
 
+ -- Adam McDaniel <adam@jolicloud.org>  Mon, 17 Aug 2009 15:24:49 -0600
+
+jolicloud-meta (0.1.24) robby; urgency=low
+
+  * Temporarily removed jolicloud-sounds from desktop dependencies
+
+ -- Romain Huet <romain@jolicloud.org>  Mon, 17 Aug 2009 22:13:30 +0200
+
 jolicloud-meta (0.1.21) robby; urgency=low
 
   * Added firefox-meerkat to the desktop recommended dependencies
