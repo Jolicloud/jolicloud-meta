@@ -1,3 +1,9 @@
+jolicloud-meta (0.1.26.3) robby; urgency=low
+
+  * Replaced bluez-gnome by blueman in recommends
+
+ -- Tristan Groléat <tristan@jolicloud.org>  Thu, 17 Sep 2009 11:32:35 +0200
+
 jolicloud-meta (0.1.26.2) robby; urgency=low
 
   * Set jolicloud-usb-creator in recommends and fixed gnome-icon-theme
