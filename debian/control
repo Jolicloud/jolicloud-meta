@@ -1,6 +1,6 @@
 Source: jolicloud-meta
 Section: jolicloud/metapackages
-Priority: optional
+Priority: standard
 Maintainer: Jolicloud developers <developers@jolicloud.org>
 Standards-Version: 3.8.0
 Build-Depends: debhelper (>= 4)
