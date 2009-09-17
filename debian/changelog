@@ -1,3 +1,9 @@
+jolicloud-meta (0.1.26.4) robby; urgency=low
+
+  * Set blueman as a dependency instead of a recommand
+
+ -- Tristan Groléat <tristan@jolicloud.org>  Thu, 17 Sep 2009 11:58:58 +0200
+
 jolicloud-meta (0.1.26.3) robby; urgency=low
 
   * Replaced bluez-gnome by blueman in recommends
