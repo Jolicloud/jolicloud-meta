@@ -1,3 +1,9 @@
+jolicloud-meta (0.2) vincent; urgency=low
+
+  * Update for karmic (#SYS-30)
+
+ -- Benjamin Ryzman <benjamin@jolicloud.org>  Mon, 05 Oct 2009 18:23:18 +0200
+
 jolicloud-meta (0.1.26.4) robby; urgency=low
 
   * Set blueman as a dependency instead of a recommand
