@@ -1,3 +1,13 @@
+jolicloud-meta (0.1.26.5) robby; urgency=low
+
+  [ Tristan Groléat ]
+  * Replace prism-google-gears by mozilla-google-gears
+
+  [ Benjamin Ryzman ]
+  * Add jolicloud-apt-third-party-repositories
+
+ -- Benjamin Ryzman <benjamin@jolicloud.org>  Mon, 16 Nov 2009 10:56:42 +0100
+
 jolicloud-meta (0.1.26.4) robby; urgency=low
 
   * Set blueman as a dependency instead of a recommand
