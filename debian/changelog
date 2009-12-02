@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.27) robby; urgency=low
+
+  * Removed unnecessary files from upstream ubuntu-desktop and ubuntu-
+    standard
+
+ -- Adam McDaniel <adam@jolicloud.org>  Wed, 02 Dec 2009 15:32:16 +0100
+
 jolicloud-meta (0.1.26.5) robby; urgency=low
 
   [ Tristan Groléat ]
