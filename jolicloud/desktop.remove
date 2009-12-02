@@ -1,4 +1,11 @@
+apmd
+cups
+cups-bsd
+cups-client
+cups-driver-gutenprint
+fast-user-switch-applet
 genisoimage
+ghostscript-x
 gnome-app-install
 gnome-icon-theme
 gnome-spell
@@ -8,6 +15,7 @@ gucharmap
 nautilus-cd-burner
 pcmciautils
 readahead
+system-config-printer-gnome
 tangerine-icon-theme
 ubuntu-artwork
 ubuntu-sounds
