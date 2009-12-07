@@ -1,3 +1,9 @@
+jolicloud-meta (0.1.28) robby; urgency=low
+
+  * Activated jolicloud-pouslbo as a standard package
+
+ -- Adam McDaniel <adam@jolicloud.org>  Mon, 07 Dec 2009 22:06:34 +0100
+
 jolicloud-meta (0.1.27) robby; urgency=low
 
   * Removed unnecessary files from upstream ubuntu-desktop and ubuntu-
