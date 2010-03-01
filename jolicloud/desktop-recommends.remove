@@ -1,6 +1,4 @@
 apport-gtk
-avahi-autoipd
-avahi-daemon
 bogofilter
 brasero
 bluez-cups
@@ -22,6 +20,9 @@ evolution-indicator
 evolution-plugins
 evolution-webcal
 example-content
+foo2zjs
+foomatic-db-hpijs
+gdm-guest-session
 gimp
 gnome-accessibility-themes
 gnome-games
@@ -33,6 +34,7 @@ libdeskbar-tracker
 libnss-mdns
 linux-headers.*
 make
+min12xxw
 miro
 mozilla-plugin-vlc
 openoffice.org-calc
@@ -40,18 +42,20 @@ openoffice.org-gnome
 openoffice.org-impress
 openoffice.org-math
 openoffice.org-writer
+pxljr
 rhythmbox
 scim
 scim-bridge-agent
 scim-bridge-client-gtk
 scim-gtk2-immodule
-skype
+splix
 thunderbird
 thunderbird-gnome-support
 tomboy
 tracker
 tracker-search-tool
 tsclient
+ubufox
 usb-creator
 vinagre
 vlc
