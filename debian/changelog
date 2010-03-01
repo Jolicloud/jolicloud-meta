@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.31) robby; urgency=low
+
+  * Cleaned out extra jolicloud-desktop packages not shipped with the
+    ISO
+
+ -- Adam McDaniel <adamm@jolicloud.org>  Mon, 01 Mar 2010 11:07:33 -0700
+
 jolicloud-meta (0.1.30) robby; urgency=low
 
   * Remove apparmor from jolicloud-desktop
