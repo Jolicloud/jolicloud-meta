@@ -5,3 +5,4 @@ $SCRIPT_DIR/update-packages-list $TARGET_DIR desktop
 $SCRIPT_DIR/update-packages-list $TARGET_DIR desktop-recommends
 $SCRIPT_DIR/update-packages-list $TARGET_DIR standard
 $SCRIPT_DIR/update-packages-list $TARGET_DIR standard-recommends
+$SCRIPT_DIR/update-packages-list $TARGET_DIR minimal
