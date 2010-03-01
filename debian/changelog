@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.30) robby; urgency=low
+
+  * Remove apparmor from jolicloud-desktop
+  * Temporarially set jolicloud-minimal to depend on -standard, -desktop
+
+ -- Adam McDaniel <adamm@gw.array.org>  Mon, 01 Mar 2010 00:25:31 -0700
+
 jolicloud-meta (0.1.29) robby; urgency=low
 
   * Moved jolicloud-poulsbo from desktop to standard meta package
