@@ -4,6 +4,12 @@ jolicloud-meta (0.1.32) robby; urgency=low
 
  -- Adam McDaniel <adamm@jolicloud.org>  Tue, 02 Mar 2010 13:08:09 -0700
 
+jolicloud-meta (0.1.31.5) robby; urgency=low
+
+  * add nickel-browser dependency
+
+ -- Benjamin Ryzman <benjamin@jolicloud.org>  Fri, 19 Mar 2010 18:24:24 +0100
+
 jolicloud-meta (0.1.31) robby; urgency=low
 
   * Cleaned out extra jolicloud-desktop packages not shipped with the
