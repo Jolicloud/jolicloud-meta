@@ -1,3 +1,10 @@
+jolicloud-meta (0.1.33) robby; urgency=low
+
+  * Bumped version of jolicloud-meta further to nickel-browser and
+    desktop-switcher additions being diverted
+
+ -- Romain Huet <romain@jolicloud.org>  Fri, 26 Mar 2010 11:22:14 +0100
+
 jolicloud-meta (0.1.32) robby; urgency=low
 
   * Added desktop-switcher to jolicloud-desktop
