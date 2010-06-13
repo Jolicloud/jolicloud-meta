@@ -9,6 +9,7 @@ Package: jolicloud-minimal
 Architecture: any
 Depends: ${jolicloud-minimal:Depends}
 Recommends: ${jolicloud-minimal:Recommends}
+Breaks: ${jolicloud-minimal:Breaks}
 Conflicts: ubuntu-minimal
 Provides: ubuntu-minimal
 Replaces: ubuntu-minimal
@@ -29,6 +30,7 @@ Package: jolicloud-standard
 Architecture: any
 Depends: ${jolicloud-standard:Depends}
 Recommends: ${jolicloud-standard:Recommends}
+Breaks: ${jolicloud-standard:Breaks}
 Conflicts: ubuntu-standard
 Provides: ubuntu-standard
 Replaces: ubuntu-standard
@@ -44,6 +46,7 @@ Package: jolicloud-desktop
 Architecture: any
 Depends: ${jolicloud-desktop:Depends}
 Recommends: ${jolicloud-desktop:Recommends}
+Breaks: ${jolicloud-desktop:Breaks}
 Conflicts: ubuntu-desktop
 Provides: ubuntu-desktop
 Replaces: ubuntu-desktop
