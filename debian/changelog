@@ -1,3 +1,9 @@
+jolicloud-meta (0.2.0) robby; urgency=low
+
+  * Removed netbook-launcher from jolicloud-desktop
+
+ -- Adam McDaniel <adam@jolicloud.org>  Sun, 13 Jun 2010 11:44:53 +0200
+
 jolicloud-meta (0.1.35) robby; urgency=low
 
   * Don't bring in jolicloud-notifier
