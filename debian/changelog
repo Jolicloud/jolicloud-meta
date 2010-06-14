@@ -1,3 +1,9 @@
+jolicloud-meta (1.0.0~dev2) robby-dev; urgency=low
+
+  * Added jolicloud-launcher dependency into jolicloud-desktop
+
+ -- Adam McDaniel <adam@jolicloud.org>  Mon, 14 Jun 2010 10:27:59 +0200
+
 jolicloud-meta (1.0.0~dev1) robby-dev; urgency=low
 
   * Removed netbook-launcher from jolicloud-desktop
