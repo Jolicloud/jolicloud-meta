@@ -1,3 +1,11 @@
+jolicloud-meta (1.0.0~dev3) robby-dev; urgency=low
+
+  * Removed desktop-switcher from jolicloud-desktop
+  * Removed remaining depricated firefox and prism dependencies
+  * Removed jolicloud-bridge
+
+ -- Adam McDaniel <adam@jolicloud.org>  Mon, 26 Jul 2010 15:20:23 -0600
+
 jolicloud-meta (1.0.0~dev2) robby-dev; urgency=low
 
   * Added jolicloud-launcher dependency into jolicloud-desktop
