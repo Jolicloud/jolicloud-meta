@@ -30,6 +30,7 @@ gnome-accessibility-themes
 gnome-games
 gnome-orca
 gnome-pilot-conduits
+gnome-user-guide
 hal-cups-utils
 hplip
 libdeskbar-tracker
@@ -58,6 +59,7 @@ tracker
 tracker-search-tool
 tsclient
 ubufox
+ubuntu-docs
 usb-creator
 vinagre
 vlc
