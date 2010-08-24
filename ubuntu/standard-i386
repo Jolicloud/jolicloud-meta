@@ -1,5 +1,6 @@
 aptitude
 at
+busybox-static
 cpio
 cron
 dmidecode
@@ -11,6 +12,7 @@ ftp
 hdparm
 info
 iptables
+language-selector-common
 logrotate
 lshw
 lsof
@@ -18,7 +20,6 @@ ltrace
 man-db
 memtest86+
 mime-support
-nano
 parted
 pciutils
 popularity-contest
