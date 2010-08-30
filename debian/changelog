@@ -1,3 +1,12 @@
+jolicloud-meta (1.1.0) robby-lucid; urgency=low
+
+  * Rebased on ubuntu-meta 1.197
+  * Resynced jolicloud-meta deltas with ubuntu-meta upstream update
+  * Moved jolicloud-poulsbo to standard-recommends
+  * Added plymouth-theme-jolicloud-* to jolicloud-desktop/standard
+
+ -- Adam McDaniel <adam@jolicloud.org>  Sun, 29 Aug 2010 21:41:08 -0600
+
 jolicloud-meta (1.0.0~dev4) robby-dev; urgency=low
 
   * Removed netbook-launcher from jolicloud-desktop
