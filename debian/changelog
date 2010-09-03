@@ -1,4 +1,4 @@
-jolicloud-meta (1.0.0~dev4) robby-dev; urgency=low
+jolicloud-meta (1.0.0) robby; urgency=low
 
   * Removed netbook-launcher from jolicloud-desktop
   * Removed legacy prism apps
