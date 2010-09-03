@@ -1,3 +1,12 @@
+jolicloud-meta (1.1.1) robby-lucid; urgency=low
+
+  * Added usb-modeswitch, usb-modeswitch-data to jolicloud-desktop
+    recommends
+  * Removed jolicloud-poulsbo from jolicloud-standard depends; to be
+    provided dynamically, when necessary, by jolicloud-hardware
+
+ -- Adam McDaniel <adam@jolicloud.org>  Thu, 02 Sep 2010 21:17:57 -0600
+
 jolicloud-meta (1.1.0) robby-lucid; urgency=low
 
   * Rebased on ubuntu-meta 1.197
