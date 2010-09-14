@@ -1,3 +1,13 @@
+jolicloud-meta (1.1.2) robby-lucid; urgency=low
+
+  * Created new meta-package, jolicloud-featured-webapps; set it as
+    recommended by jolicloud-desktop
+  * Changed jolicloud-minimal depends (jolicloud-standard,-desktop) to
+    recommends
+  * Removed openprinting-ppds from jolicloud-desktop 'depends'
+
+ -- Adam McDaniel <adam@jolicloud.org>  Mon, 13 Sep 2010 21:43:48 -0600
+
 jolicloud-meta (1.1.1) robby-lucid; urgency=low
 
   * Added usb-modeswitch, usb-modeswitch-data to jolicloud-desktop
