@@ -7,3 +7,4 @@ $SCRIPT_DIR/update-packages-list $TARGET_DIR desktop-breaks
 $SCRIPT_DIR/update-packages-list $TARGET_DIR standard
 $SCRIPT_DIR/update-packages-list $TARGET_DIR standard-recommends
 $SCRIPT_DIR/update-packages-list $TARGET_DIR minimal
+$SCRIPT_DIR/update-packages-list $TARGET_DIR featured-webapps

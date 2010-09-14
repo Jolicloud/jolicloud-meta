@@ -55,3 +55,15 @@ Description: The Jolicloud desktop system
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+
+Package: jolicloud-featured-webapps
+Architecture: any
+Depends: ${jolicloud-featured-webapps:Depends}
+Recommends: ${jolicloud-featured-webapps:Recommends}
+Breaks: ${jolicloud-featured-webapps:Breaks}
+Description: The Jolicloud featured webapps
+ This package depends on all of the featured webapp packages for the
+ Jolicloud system
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
