@@ -1,3 +1,11 @@
+jolicloud-meta (1.1.5) robby-lucid; urgency=low
+
+  * Make jolicloud-desktop depend on jolicloud-featured-webapps (which
+    in turn recommends the actual webapp to allow for removal by end-
+    user)
+
+ -- Adam McDaniel <adam@jolicloud.org>  Wed, 22 Sep 2010 22:56:50 -0600
+
 jolicloud-meta (1.1.4) robby-lucid; urgency=low
 
   * Added 'gdm | slim' to jolicloud-desktop depends
