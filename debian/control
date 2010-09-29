@@ -1,6 +1,6 @@
 Source: jolicloud-meta
 Section: jolicloud/metapackages
-Priority: standard
+Priority: required
 Maintainer: Jolicloud developers <developers@jolicloud.org>
 Standards-Version: 3.8.0
 Build-Depends: debhelper (>= 4)
@@ -44,6 +44,7 @@ Description: The Jolicloud standard system
 
 Package: jolicloud-desktop
 Architecture: any
+Essential: yes
 Depends: ${jolicloud-desktop:Depends}
 Recommends: ${jolicloud-desktop:Recommends}
 Breaks: ${jolicloud-desktop:Breaks}
