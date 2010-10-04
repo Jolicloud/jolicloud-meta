@@ -4,5 +4,6 @@ network-manager-openconnect-gnome
 network-manager-openvpn-gnome
 network-manager-pptp-gnome
 network-manager-vpnc-gnome
+python-software-properties
 usb-modeswitch
 usb-modeswitch-data
