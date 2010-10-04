@@ -1,3 +1,12 @@
+jolicloud-meta (1.1.6) robby-lucid; urgency=low
+
+  * Flag jolicloud-desktop packages as 'Essential'
+  * Remove legacy jolicloud-desktop dependency on software-properties-
+    gtk (keep python-software-properties)
+  * Remove legacy jolicloud-desktop dependency on jockey-gtk
+
+ -- Adam McDaniel <adam@jolicloud.org>  Sun, 03 Oct 2010 19:46:12 -0600
+
 jolicloud-meta (1.1.5) robby-lucid; urgency=low
 
   * Make jolicloud-desktop depend on jolicloud-featured-webapps (which
