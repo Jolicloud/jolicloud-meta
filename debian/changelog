@@ -1,3 +1,10 @@
+jolicloud-meta (1.1.7) robby-lucid; urgency=low
+
+  * Revert "Flag jolicloud-desktop packages as 'Essential'" due to upgrade
+    compatibility problem with nickel-browser.
+
+ -- Adam McDaniel <adam@jolicloud.org>  Mon, 04 Oct 2010 13:10:18 -0600
+
 jolicloud-meta (1.1.6) robby-lucid; urgency=low
 
   * Flag jolicloud-desktop packages as 'Essential'
