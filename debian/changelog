@@ -1,3 +1,12 @@
+jolicloud-meta (1.1.8) robby-lucid; urgency=low
+
+  * Created jolicloud-iso, jolicloud-oem-iso meta-packages for priming
+    the regular and OEM ISOs with required/recommended packages. These
+    meta-packages will be auto-removed at installation time by ubiquity.
+  * Add slim, jolicloud-slim-theme to jolicloud-desktop depends list
+
+ -- Adam McDaniel <adam@jolicloud.org>  Thu, 07 Oct 2010 20:20:06 -0600
+
 jolicloud-meta (1.1.7) robby-lucid; urgency=low
 
   * Revert "Flag jolicloud-desktop packages as 'Essential'" due to upgrade
