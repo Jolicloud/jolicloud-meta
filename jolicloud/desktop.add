@@ -11,7 +11,8 @@ jolicloud-sounds
 jolicloud-tweaks
 maximus
 plymouth-theme-jolicloud-logo
-gdm | slim
+slim
+jolicloud-slim-theme
 synaptic
 window-picker-applet
 nickel-browser
