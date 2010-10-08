@@ -67,3 +67,29 @@ Description: The Jolicloud featured webapps
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+
+Package: jolicloud-iso
+Architecture: any
+Depends: ${jolicloud-iso:Depends}
+Recommends: ${jolicloud-iso:Recommends}
+Breaks: ${jolicloud-iso:Breaks}
+Description: The Jolicloud ISO template
+ This package depends on all of the original packages used to create a
+ Jolicloud ISO image.
+ .
+ This package will be automatically removed after installing Jolicloud from
+ an ISO, and does not need to be manually installed to an existing system
+ by the end-user.
+
+Package: jolicloud-oem-iso
+Architecture: any
+Depends: ${jolicloud-oem-iso:Depends}
+Recommends: ${jolicloud-oem-iso:Recommends}
+Breaks: ${jolicloud-oem-iso:Breaks}
+Description: The Jolicloud OEM ISO template
+ This package depends on all of the original packages used to create a
+ Jolicloud OEM ISO image.
+ .
+ This package will be automatically removed after installing Jolicloud from
+ an ISO, and does not need to be manually installed to an existing system
+ by the end-user.

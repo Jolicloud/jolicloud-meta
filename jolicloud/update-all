@@ -9,3 +9,7 @@ $SCRIPT_DIR/update-packages-list $TARGET_DIR standard-recommends
 $SCRIPT_DIR/update-packages-list $TARGET_DIR minimal
 $SCRIPT_DIR/update-packages-list $TARGET_DIR featured-webapps
 $SCRIPT_DIR/update-packages-list $TARGET_DIR featured-webapps-recommends
+$SCRIPT_DIR/update-packages-list $TARGET_DIR iso
+$SCRIPT_DIR/update-packages-list $TARGET_DIR iso-recommends
+$SCRIPT_DIR/update-packages-list $TARGET_DIR oem-iso
+$SCRIPT_DIR/update-packages-list $TARGET_DIR oem-iso-recommends
