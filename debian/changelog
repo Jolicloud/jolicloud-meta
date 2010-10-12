@@ -1,3 +1,11 @@
+jolicloud-meta (1.1.9) robby-lucid; urgency=low
+
+  * Pre-install flashplugin-nonfree and gstreamer plugins on both OEM
+    and normal ISO builds
+  * Added gstreamer0.10-plugins-bad as pre-installed ISO package
+
+ -- Adam McDaniel <adam@jolicloud.org>  Tue, 12 Oct 2010 02:28:45 -0600
+
 jolicloud-meta (1.1.8) robby-lucid; urgency=low
 
   * Created jolicloud-iso, jolicloud-oem-iso meta-packages for priming
