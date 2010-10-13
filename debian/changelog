@@ -1,3 +1,10 @@
+jolicloud-meta (1.1.10) robby-lucid; urgency=low
+
+  [ Jérémy Bethmont ]
+  * Added spotify as pre-installed OEM ISO package
+
+ -- Jérémy Bethmont <jerem@jolicloud.org>  Wed, 13 Oct 2010 14:54:39 +0200
+
 jolicloud-meta (1.1.9) robby-lucid; urgency=low
 
   * Pre-install flashplugin-nonfree and gstreamer plugins on both OEM
