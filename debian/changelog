@@ -1,3 +1,10 @@
+jolicloud-meta (1.1.11) robby-lucid; urgency=low
+
+  [ Jérémy Bethmont ]
+  * Added wine-gecko as pre-installed OEM ISO package
+
+ -- Jérémy Bethmont <jerem@jolicloud.org>  Wed, 13 Oct 2010 16:42:30 +0200
+
 jolicloud-meta (1.1.10) robby-lucid; urgency=low
 
   [ Jérémy Bethmont ]
