@@ -4,6 +4,9 @@ network-manager-openconnect-gnome
 network-manager-openvpn-gnome
 network-manager-pptp-gnome
 network-manager-vpnc-gnome
+p7zip-full
+p7zip-rar
 python-software-properties
+unrar
 usb-modeswitch
 usb-modeswitch-data
