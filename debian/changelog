@@ -1,3 +1,10 @@
+jolicloud-meta (1.1.14) robby-lucid; urgency=low
+
+  * Moved p7zip/rar from iso(recommends) to jolicloud-desktop(recommends)
+    so that everyone, new installs and upgrades, recieve it.
+
+ -- Adam McDaniel <adam@jolicloud.org>  Thu, 21 Oct 2010 00:32:01 -0600
+
 jolicloud-meta (1.1.13) robby-lucid; urgency=low
 
   * Added unrar and p7zip to iso-recommends.add.
