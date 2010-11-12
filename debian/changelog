@@ -1,3 +1,11 @@
+jolicloud-meta (1.1.16) robby-lucid; urgency=low
+
+  * Remove reference to depricated jolicloud-apt-third-party-
+    repositories
+  * Moved jolicloud-apt-* references to jolicloud-minimal
+
+ -- Adam McDaniel <adam@jolicloud.org>  Fri, 12 Nov 2010 16:52:18 +0100
+
 jolicloud-meta (1.1.15) robby-lucid; urgency=low
 
   * Make jolicloud-standard only recommend jolicloud-hardware: this
