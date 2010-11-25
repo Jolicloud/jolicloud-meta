@@ -29,7 +29,8 @@ gdm-guest-session
 gimp
 gnome-accessibility-themes
 gnome-bluetooth
-gnome-majongg
+gnome-mag
+gnome-mahjongg
 gnome-orca
 gnome-sudoku
 gnome-user-guide
@@ -66,6 +67,7 @@ thunderbird-gnome-support
 tomboy
 tracker
 tracker-search-tool
+transmission-gtk
 tsclient
 ubufox
 ubuntu-docs
