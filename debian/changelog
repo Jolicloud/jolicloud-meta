@@ -1,3 +1,10 @@
+jolicloud-meta (1.1.18) robby-lucid; urgency=low
+
+  * Remove jolicloud-hardware from standards.recommends; this ensures
+    smooth package removal after installation.
+
+ -- Adam McDaniel <adam@jolicloud.org>  Fri, 03 Dec 2010 05:39:20 -0700
+
 jolicloud-meta (1.1.17) robby-lucid; urgency=low
 
   * Removed minor gnome components from jolicloud-desktop, plus
