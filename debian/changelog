@@ -1,3 +1,9 @@
+jolicloud-meta (1.1.20) robby-lucid; urgency=low
+
+  * Include jolicloud-restore-utility with jolicloud-desktop
+
+ -- Adam McDaniel <adam@jolicloud.org>  Mon, 06 Dec 2010 11:41:54 -0700
+
 jolicloud-meta (1.1.19) robby-lucid; urgency=low
 
   [ Jérémy Bethmont ]
