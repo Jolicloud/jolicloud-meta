@@ -1,3 +1,10 @@
+jolicloud-meta (1.1.19) robby-lucid; urgency=low
+
+  [ Jérémy Bethmont ]
+  * Updated featured webapps.
+
+ -- Adam McDaniel <adam@jolicloud.org>  Mon, 06 Dec 2010 07:58:56 -0700
+
 jolicloud-meta (1.1.18) robby-lucid; urgency=low
 
   * Remove jolicloud-hardware from standards.recommends; this ensures
