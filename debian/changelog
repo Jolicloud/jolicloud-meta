@@ -1,3 +1,9 @@
+jolicloud-meta (1.1.21) robby-1.1.1; urgency=low
+
+  * Removed f-spot from jolicloud-desktop.recommends
+
+ -- Adam McDaniel <adam@jolicloud.org>  Thu, 10 Feb 2011 12:18:22 -0700
+
 jolicloud-meta (1.1.20) robby-lucid; urgency=low
 
   * Include jolicloud-restore-utility with jolicloud-desktop
