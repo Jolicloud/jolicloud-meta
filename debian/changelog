@@ -1,3 +1,9 @@
+jolicloud-meta (1.2.3) robby-1.2; urgency=low
+
+  * Added jolicloud-displaymanager to jolicloud/desktop.add
+
+ -- Jérémy Bethmont <jerem@jolicloud.org>  Mon, 21 Feb 2011 11:39:38 +0100
+
 jolicloud-meta (1.2.2) robby-1.2; urgency=low
 
   * Removed f-spot from jolicloud-desktop.recommends
