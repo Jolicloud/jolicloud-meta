@@ -4,6 +4,8 @@ Priority: standard
 Maintainer: Jolicloud developers <developers@jolicloud.org>
 Standards-Version: 3.8.0
 Build-Depends: debhelper (>= 4)
+Vcs-Git: git://github.com/jolicloud/jolicloud-meta.git
+Vcs-Browser: https://github.com/jolicloud/jolicloud-meta
 
 Package: jolicloud-minimal
 Architecture: any
