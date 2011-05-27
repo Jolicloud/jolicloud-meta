@@ -23,7 +23,7 @@ build-stamp: desktop-$(DEB_BUILD_ARCH)
 	touch $@
 
 build-files:
-	cp -f ubuntu/* .
+	#cp -f ubuntu/* .
 	/bin/bash jolicloud/update-all .
 
 install: build-stamp
