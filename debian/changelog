@@ -1,3 +1,13 @@
+jolicloud-meta (1.2.3natty1) natty; urgency=low
+
+  * Purged Joli OS meta-packages
+  * Stopped using ubuntu's meta packages as seeder; this makes
+    jolicloud-desktop completly standalone.
+  * Removed all the Joli OS-specific packages from jolicloud-desktop;
+    now just APT, launcher, and browser
+
+ -- Adam McDaniel <adam@jolicloud.org>  Fri, 27 May 2011 09:08:41 -0600
+
 jolicloud-meta (1.2.3) robby-1.2; urgency=low
 
   * Added jolicloud-displaymanager to jolicloud/desktop.add
