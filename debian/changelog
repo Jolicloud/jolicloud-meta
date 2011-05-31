@@ -1,3 +1,9 @@
+jolicloud-meta (1.2.3natty2) natty; urgency=low
+
+  * Added plymouth-theme-jolicloud into jolicloud-desktop.recommends
+
+ -- Adam McDaniel <adam@jolicloud.org>  Tue, 31 May 2011 11:07:16 -0600
+
 jolicloud-meta (1.2.3natty1) natty; urgency=low
 
   * Purged Joli OS meta-packages
